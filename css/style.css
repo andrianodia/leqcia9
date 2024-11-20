@@ -1,3 +1,53 @@
-h1 {
-	color: darkred;
+body {
+	background-color: #F1F1F1;;
+}
+
+h2 {
+	display: inline-block;
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-right: 35px;
+}
+
+.logo {
+	display: inline-block;
+}
+
+.container {
+	  
+      width: 1165px;
+      margin: 0 auto;
+}
+
+.s1 {
+	margin-top: 40px;
+}
+
+h6 {
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: block;
+}
+
+.po {
+	display: inline-block;
+	width: 362px;
+    height: 186px;
+    margin-right: 20px;
+    margin-top: 27px;
+}
+.po1 {
+	display: inline-block;
+	width: 362px;
+    height: 171px;
+    margin-right: 20px;
+    margin-top: -10px;
 }
