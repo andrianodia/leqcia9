@@ -15,6 +15,7 @@ h2 {
 
 .logo {
 	display: inline-block;
+
 }
 
 .container {
@@ -116,8 +117,227 @@ p{
 	line-height: normal;
 	margin-bottom: 12px;
 	display: inline-block;
+	position: absolute;
 	
 }
 .home {
+	margin-top: 59px;
+}
+
+.h {
+	display: inline-block;
+	position: absolute;
+	margin-left: -1130px;
+	margin-top: 68px;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.h2 {
+	display: inline-block;
+	position: absolute;
+	margin-left: -1130px;
+	margin-top:  90px;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.wre {
+	display: inline-block;
+	position: absolute;
+	margin-left: -1130px;
+	margin-top:  110px;
+}
+
+.h3 {
+	display: inline-block;
+	position: absolute;
+	margin-left: -1105px;
+	margin-top:  113px;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.h4 {
+	display: inline-block;
+	position: absolute;
+	margin-left: -740px;
+	margin-top: 68px;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.h5 {
+	display: inline-block;
+	position: absolute;
+	margin-left: -740px;
+	margin-top:  90px;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.wre1{
+	display: inline-block;
+	position: absolute;
+	margin-left: -740px;
+	margin-top:  110px;
+}
+
+.h6 {
+	display: inline-block;
+	position: absolute;
+	margin-left: -715px;
+	margin-top:  113px;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.h7 {
+	display: inline-block;
+	position: absolute;
+	margin-left: -360px;
+	margin-top: 68px;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.h8 {
+	display: inline-block;
+	position: absolute;
+	margin-left: -360px;
+	margin-top:  90px;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.wre2{
+	display: inline-block;
+	position: absolute;
+	margin-left: -360px;
+	margin-top:  110px;
+}
+
+.h9 {
+	display: inline-block;
+	position: absolute;
+	margin-left: -335px;
+	margin-top:  113px;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.j {
+    position: absolute; 
+    display: inline-block;
+    margin-top: -700px;
+    margin-left: -90px;
+    color: #FFF;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+
+.home1 {
+	margin-top: 87px;
+}
+
+.home2 {
+	margin-top: 115px;
+}
+
+.home3 {
+	margin-top: 143px;
+}
+
+.home4 {
+	margin-top: 59px;
+	margin-left: 154px;
+}
+
+.home5 {
+	margin-top: 87px;
+	margin-left: 154px;
+}
+.home6 {
+	margin-top: 115px;
+	margin-left: 154px;
+}
+.home7 {
+	margin-top: 143px;
+	margin-left: 154px;
+}
+
+.home8 {
+	margin-top: 59px;
+	margin-left: 283px;
+}
+
+.home9 {
+	margin-top: 87px;
+	margin-left: 283px;
+}
+.home10 {
+	margin-top: 115px;
+	margin-left: 283px;
+}
+.home11 {
+	margin-top: 143px;
+	margin-left: 283px;
+}
+
+.geolab {
+	position: absolute;
+	display: inline-block;
+	margin-top: 58px;
+	margin-left: 1127px;
+}
+.home12 {
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	display: inline-block;
+	margin-left: 462px;
 	margin-top: 59px;
 }
